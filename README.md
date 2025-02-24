@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence | Machine Learning**
 
-- 🤝 I have been working as freelancer at [upwork](https://www.upwork.com/)
+- 🤝 I have been working as freelancer at [upwork](https://www.upwork.com/freelancers/jay1720)
 
 - 💬 Ask me about **ReactJS, NextJs, JavaScript, TypeScript, FrontEnd, FullStack**
 
