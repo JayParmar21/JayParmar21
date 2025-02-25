@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **jay.v.parmar21@gmail.com**
 
+- 📅 You can schedule a meeting with me [hear](https://calendly.com/jay-v-parmar21/), happy to consult and discuss more about your requirements.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jay-parmar-0a482a126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jay-parmar-0a482a126" height="30" width="40" /></a>
