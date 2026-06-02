@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning **Artificial Intelligence | Machine Learning**<br>🤝 I have been working as freelancer at [upwork](https://www.upwork.com/freelancers/jay1720)<br>💬 Ask me about **ReactJS, NextJs, JavaScript, TypeScript, FrontEnd, FullStack**<br>📫 How to reach me **jay.v.parmar21@gmail.com**<br>📅 You can schedule a meeting with me [hear](https://calendly.com/jay-v-parmar21/), happy to consult and discuss more about your requirements.
+🌱 I’m currently learning **Artificial Intelligence | Machine Learning**<br><!--🤝 I have been working as freelancer at [upwork](https://www.upwork.com/freelancers/jay1720) <br> -->💬 Ask me about **ReactJS, NextJs, JavaScript, TypeScript, FrontEnd, FullStack**<br>📫 How to reach me **jay.v.parmar21@gmail.com**<br>📅 You can schedule a meeting with me [hear](https://calendly.com/jay-v-parmar21/), happy to consult and discuss more about your requirements.
 
 
 ## 🌐 Socials:
